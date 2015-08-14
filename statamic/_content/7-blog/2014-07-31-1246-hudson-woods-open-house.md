@@ -1,0 +1,11 @@
+---
+featuredImage: '{{ _site_root }}assets/img/journal/Open-House2-20140731125016.jpg'
+title: Hudson Woods Open House
+author: HudsonWoods
+categories:
+  - architecture
+  - design
+  - furniture
+contentSummary: '<p>As many of you may know, this past Saturday we hosted our launch party at <a href="http://hudsonwoods.com/blog/hudson-woods-open-house/hudsonwoods.com" style="background-color: initial;">Hudson Woods</a>. We were highly excited by the turn out and wanted to send a big thank you to everyone who came out for the event. It was a great pleasure getting the Hudson Woods community together and we hope to do it again.</p>'
+---
+<p><img src="/assets/img/journal/Open-House2.jpg"></p><p>As many of you may know, this past Saturday we hosted our launch party at <a href="http://hudsonwoods.com/blog/hudson-woods-open-house/hudsonwoods.com">Hudson Woods</a>. We were highly excited by the turn out and wanted to send a big thank you to everyone who came out for the event. It was a great pleasure getting the Hudson Woods community together and we hope to do it again.</p><p>In the meantime, we’d like to officially announce that Hudson Woods is now hosting an Open House every Saturday from 11:00 am – 1:00 pm. Get the chance to meet with architect Drew Lang and get a tour of the model home. Can’t make it to the open house? Reach out to us at sales@hudsonwoods.com and we can accommodate a private showing.</p><p>Check out below a selection of photos from the model home taken during the launch party. Make sure to stay tuned as we’ll be releasing new photos of the model home shortly.</p><p>Did you take any photos at the launch party? We’d love to see them! Post them to instagram, facebook or twitter and tag us (hudsonwoodsny) and we’ll be excited to repost them! Or if you’d like, send them to us via email.</p><p>We’re excited to see them!</p><p><img src="/assets/img/journal/image001.jpg"></p><p><img src="/assets/img/journal/image006.jpg"></p><p><img src="/assets/img/journal/1.png"></p><p><img src="/assets/img/journal/3.png"></p><p><img src="/assets/img/journal/4-20140731125148.png"></p><p><img src="/assets/img/journal/5.png"></p><p><img src="/assets/img/journal/6.png"></p><p><img src="/assets/img/journal/7.png"></p><p><img src="/assets/img/journal/8.png"></p><p><img src="/assets/img/journal/9.png"></p><p><img src="/assets/img/journal/10.png"></p>

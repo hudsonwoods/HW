@@ -1,0 +1,36 @@
+fields:
+
+  content: 
+    hide: true
+
+  my_replicator_field:
+    type: replicator
+    instructions: |
+      Replicate a new set for each piece of content you need.
+
+    sets:
+
+      header_set:
+        display: Headline
+        instructions: Add a Headline
+        fields:
+          headline:
+            type: text
+
+      image_set:
+        display: Image
+        instructions: Showcase your adventures in a gallery
+        fields:
+          image:
+            type: file
+            destination: assets/img/gallery
+
+      video_set:
+        display: Video link
+        instructions: Add a video url such as 'https://vimeo.com/110384820'
+        fields:
+          link:
+            display: Add your video link
+            type: text
+
+

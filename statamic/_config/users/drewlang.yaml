@@ -1,0 +1,11 @@
+---
+email: dl@langarchitecture.com
+first_name: Drew
+last_name: Lang
+password: ""
+password_hash: $2a$08$enwzoztbrOQXBzOFPrrZquigJkNw7jUT9cE1uy91U3iAJqx1yql52
+roles:
+  - member
+  - admin
+_uid: rKW6qQ53c81e1d05c5cBBgs5LtJ
+---

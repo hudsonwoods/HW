@@ -1,0 +1,49 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.sass-cache*
+
+# Node Modules
+node_modules/*
+
+# Statamic files #
+######################
+statamic/_cache/*
+statamic/!_cache/index.html
+statamic/_logs/*
+statamic/!_logs/index.html
+statamic/assets/*
+#statamic/_content/*
+#statamic/_config/users/*
+.htaccess
+
+
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/**/*
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Design generated files #
+######################
+*.psd
+*.ai
+*.sketch
+
+npm-debug.log
+*.sublime-project
+*.sublime-workspace

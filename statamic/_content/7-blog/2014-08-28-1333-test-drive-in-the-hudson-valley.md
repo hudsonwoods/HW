@@ -1,0 +1,10 @@
+---
+featuredImage: '{{ _site_root }}assets/img/journal/BMWLead-20140828133736.jpg'
+title: Test Drive in the Hudson Valley
+author: HudsonWoods
+categories:
+  - sustainability
+  - technology
+contentSummary: '<p>As many of you may have noticed at our launch party, we have recently been quite keen on BMW’s i3, their first fully dedicated electric vehicle. We have been seeking a smart transportation solution to use between the city and Hudson Woods and around the Hudson Valley.</p>'
+---
+<p><img src="/assets/img/journal/BMWLead-20140828134520.jpg"></p><p><span>As many of you may have noticed at our launch party, we have recently been quite keen on&nbsp;<a href="http://www.bmwusa.com/standard/content/vehicles/2014/bmwi/default.aspx?mobileoverride=true#i3" target="_blank">BMW’s i3</a>, their first fully dedicated electric vehicle. We have been seeking a smart transportation solution to use&nbsp;between the city and Hudson Woods and around the Hudson Valley. </span></p><p>The i3 has emerged as the perfect option for us to further minimize emissions and environmental impact in our day-to-day life around Hudson Woods. The new range extender option or “i3 REX” allows us to swiftly get from the city to Hudson Woods without having to make any stops.</p><p>It’s quite easy to clear 125 miles before having to think about recharging. Once arriving at the model home we plug in the&nbsp;<a href="http://hudsonwoods.com/blog/empowering-sustainably" target="_blank">Blink car charger</a> and the car is ready to go in a few of hours. A full charge takes 4 hours but it will get a 75% charge within 2 hours.</p><p><img src="/assets/img/journal/BMW2-20140828134615.jpg"></p><p><img src="/assets/img/journal/BMW1.jpg"></p><p><img src="/assets/img/journal/BMW3.jpg"></p><p><img src="/assets/img/journal/BMW4.jpg"></p><p><img src="/assets/img/journal/BMW5.jpg"></p><p><img src="/assets/img/journal/BMW6.jpg"></p><p><img src="/assets/img/journal/BMW8.jpg"></p><p><img src="/assets/img/journal/BMW9.jpg"></p>

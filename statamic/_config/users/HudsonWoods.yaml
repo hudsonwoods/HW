@@ -1,0 +1,12 @@
+---
+email: info@hudsonwoods.com
+first_name: Hudson
+last_name: Woods
+password: ""
+password_hash: $2a$08$B1iq1wC3KCYwufqmbQNPzOxlUdLQzfs.wdcsuOgu2NEoysmCRElZC
+roles:
+  - member
+  - admin
+_uid: Xm6tmh53c816055b6ffL3Y44PQ7
+userProfile: hw_logo.jpg
+---

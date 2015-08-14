@@ -1,0 +1,26 @@
+{{ theme:partial src="nav_unsticky" }}
+
+<section id="gallery" class="content large centered">
+<a href="" class="anchor large" id="gallery-anchor"></a>
+	<div class="container">
+		<h2>Image Gallery</h2>
+		<div class="row">
+		<div class="col-md-10 col-md-offset-1">
+		<div class="fotorama"  data-width="100%" data-nav="thumbs">
+		{{ my_replicator_field }}
+		{{ if type == "image_set" }}
+		 	<a href="{{ image }}">
+		 		<img src="{{ path src="{{ image }}" }}" alt="">
+		 	</a>	
+		{{ elseif type =="video_set" }}
+			<a href="{{ link }}"></a>
+		{{ endif }}
+		{{ /my_replicator_field }}
+		</div>
+		</div>
+		</div>
+	</div>
+</section>
+     
+
+

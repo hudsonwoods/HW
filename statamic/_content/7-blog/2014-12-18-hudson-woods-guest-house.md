@@ -1,0 +1,11 @@
+---
+title: Hudson Woods Guest House
+author: HudsonWoods
+categories:
+  - design
+  - architecture
+  - site
+featuredImage: /assets/img/journal/GH6.png
+contentSummary: '<p>With the holidays around the corner and family visiting, we know that extra space at home is a premium advantage this time of year. With this in mind, we wanted to review the guest house upgrade available at Hudson Woods. </p>'
+---
+<p><img src="/assets/img/journal/resized/GH6-20141218121145.png"><br></p><p>With the holidays around the corner and family visiting, we know that extra space at home is a high priority this time of year. With that in mind, we wanted to review the guest house <a href="http://hudsonwoods.com/blog/hudson-woods-guest-house" target="_blank">upgrade</a> available at Hudson Woods. The guest house is designed to serve as a self-sustaining house with all the amenities that visiting friends and family would need while also providing a secondary retreat from the main house as a studio or den.</p><p>It features 900 square feet of living space with a large living room, two bedrooms and a 350 square foot covered porch for additional outdoor living space. The living room has a large bluestone masonry fireplace, under-counter refrigerator and built-in cabinetry. </p><p>There are two spacious bedrooms, each with a full bathroom which features a sink niche with counter to ceiling windows, fostering a further connection with the outdoors and curating views of the natural surroundings. The house is built with a sloping roof and clerestory windows to provide natural light from a higher angle. The house is completed with cedar siding, decking and soffits to match and high-efficiency forced air heating and air conditioning.</p><p><img src="/assets/img/journal/resized/GH1.png"></p><p><br></p><p><img src="/assets/img/journal/resized/GH2.png"></p><p><br></p><p><img src="/assets/img/journal/resized/GH3.png"></p><p><br></p><p><img src="/assets/img/journal/resized/GH4.png"></p><p><br></p><p><img src="/assets/img/journal/resized/GH5.png"></p><p><br></p><p>                            <img src="/assets/img/journal/resized/GH7.jpg"></p><p><br></p><p><br></p>
