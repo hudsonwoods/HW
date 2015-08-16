@@ -27,7 +27,7 @@ var path = {
   JS_SRC_DIST: './src/dist/',
   JS_OUT: 'statamic/_themes/main/js/',
   JS_MIN: 'scripts.min.js',
-  JS: ['./src/js/third_party/*.js','./src/js/AvailabilityGeojson.js','./src/js/InTheAreaGeojson.js','./src/js/Availability.js','./src/js/InTheArea.js','./src/js/App.js']
+  JS: ['./src/js/third_party/*.js','./src/js/Availability.js','./src/js/InTheArea.js','./src/js/App.js']
 }
 
 gulp.task('copyHTML', function(){
