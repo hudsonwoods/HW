@@ -163,8 +163,8 @@ function forSaleMap(feature) {
         weight: 1,
         color: "#676566",
         opacity: .2,
-        fillColor: "#95856b",
-        fillOpacity: .37
+        fillColor: "#AE9B09",
+        fillOpacity: .55
     };
 }
 
@@ -175,8 +175,8 @@ function forSaleMapResetHighlight(e) {
         weight: 1,
         color: "#676566",
         opacity: .2,
-        fillColor: "#95856b",
-        fillOpacity: .37
+        fillColor: "#AE9B09",
+        fillOpacity: .55
     });
 
     if (!L.Browser.ie && !L.Browser.opera) {
@@ -191,7 +191,7 @@ function forSaleMapHighlight(e) {
         weight: 1,
         color: "#676566",
         opacity: 1,
-        fillColor: "#95856b",
+        fillColor: "#AE9B09",
         fillOpacity: .65
     });
 
