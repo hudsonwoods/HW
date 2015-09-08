@@ -330,3 +330,19 @@ nav {
 		height: 44px;
 	}
 }
+
+#gallery {
+	h2 {
+		margin-top: 30px;
+	}
+	.gallery-nav {
+		margin-bottom: 10px;
+		span {
+			margin: 0 10px;
+		}
+	}
+	.current {
+		font-weight: 700;
+		margin-bottom: 30px;
+	}
+}

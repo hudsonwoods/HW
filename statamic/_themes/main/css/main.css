@@ -5962,6 +5962,19 @@ nav.navbar .navbar-brand {
 #header-in-the-area .sticky-wrapper, #header-availability .sticky-wrapper {
   height: 44px; }
 
+#gallery h2 {
+  margin-top: 30px; }
+
+#gallery .gallery-nav {
+  margin-bottom: 10px; }
+
+#gallery .gallery-nav span {
+  margin: 0 10px; }
+
+#gallery .current {
+  font-weight: 700;
+  margin-bottom: 30px; }
+
 #footer {
   background-color: #c9be69;
   text-align: center;
