@@ -19,6 +19,7 @@ statamic/!_cache/index.html
 statamic/_logs/*
 statamic/!_logs/index.html
 statamic/assets/*
+statamic/_content/backup/*
 #statamic/_content/*
 #statamic/_config/users/*
 .htaccess
