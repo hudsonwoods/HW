@@ -6358,10 +6358,10 @@ p {
   background-color: #accf9c; }
 
 .card.availability.for-sale {
-  border-top: 8px solid #cdc7b9; }
+  border-top: 8px solid #D1CAAA; }
 
 .card.availability.for-sale .status {
-  background-color: #cdc7b9; }
+  background-color: #D1CAAA; }
 
 .card.area {
   overflow: hidden; }
@@ -6715,6 +6715,12 @@ p {
 .fotorama__thumb-border {
   border-color: #dfcc35; }
 
+.fotorama__caption__wrap {
+  width: 100%;
+  text-align: center;
+  font-family: "adelle", Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 20px; }
+
 #story {
   background-color: #ebe9e2; }
 
@@ -6822,7 +6828,7 @@ p {
 
 .legend .legend-marker.for-sale span {
   border: 1px solid #bbbbbb;
-  background-color: #c9be69; }
+  background-color: #D1CAAA; }
 
 .legend .legend-marker.sold span {
   border: 1px solid #bbbbbb;

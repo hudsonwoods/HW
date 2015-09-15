@@ -17,5 +17,8 @@ fields:
       link:
         type: text
         display: Link
+      caption:
+        type: text
+        display: Video Title
 
 

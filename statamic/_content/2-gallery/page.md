@@ -20,9 +20,12 @@ images:
 videos:
   - 
     link: https://vimeo.com/134954473
+    caption: Hudson Woods Aerial Views
   - 
     link: https://vimeo.com/115760804
+    caption: Hudson Woods Autumn Gathering
   - 
     link: https://vimeo.com/110384820
+    caption: Hudson Woods Construction Time Lapse
 ---
  
