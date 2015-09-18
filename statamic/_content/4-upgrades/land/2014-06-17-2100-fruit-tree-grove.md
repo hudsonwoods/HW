@@ -1,25 +1,18 @@
 ---
-previewImage: '{{ _site_root }}assets/img/upgrades/fruit-tree-thumbnail.jpg'
+previewImage: /assets/img/upgrades/fruit-tree-thumbnail.jpg
 title: Fruit Tree Grove
 specs:
   - 
-    text: 'Large Grove:'
-  - 
-    text: 30 five-year-old fruit trees selected by a master gardener
-  - 
-    text: Includes 3 months of initial maintenance
-  - 
-    text: 'Small Grove:'
-  - 
     text: 10 five-year-old fruit trees selected by a master gardener
   - 
-    text: Includes 3 months of initial maintenance
+    text: Planted, bermed, staked, mulched, irrigated and fenced in to protect them from deer
   - 
-    text: Tree species may include chestnut, black walnut, hazelnut, mulberry, apple, cherry, pear, peach
+    text: Tree species may include Plum Sweet and Sour Cherry, Nectarine, Apple, Pear, Peach, Apricot
 categories:
   - land
-cost: Small $4,000 / Large $10,500
-specDownload: '{{ _site_root }}assets/img/upgrades/Land Upgrades-20140724000225.pdf'
-imageSingle: '{{ _site_root }}assets/img/homes/Fruit-grove-Details-image.jpg'
+cost: Small $16,500
+specDownload: /assets/img/upgrades/Land Upgrades-20150622102815.pdf
+imageSingle: /assets/img/homes/Fruit-grove-Details-image.jpg
+imageGallery: ""
 ---
 <p>$10,500</p>

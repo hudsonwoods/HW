@@ -8,7 +8,7 @@ specs:
   - 
     text: Provides additional concealed storage in kitchen
 previewImage: '{{ _site_root }}assets/img/upgrades/cabinets.jpg'
-cost: $3,500
+cost: $5,500
 specDownload: '{{ _site_root }}assets/img/upgrades/Cabintes + Powder Room.pdf'
 imageSingle: '{{ _site_root }}assets/img/homes/cabinets-20140727014028.jpg'
 ---

@@ -1,29 +1,32 @@
 ---
-previewImage: '{{ _site_root }}assets/img/upgrades/veg-garden-thumbnail.jpg'
+previewImage: /assets/img/upgrades/veg-garden-thumbnail.jpg
 title: Vegetable Garden
 specs:
   - 
-    text: 'Large Garden:'
+    text: '20’ X 30’ perimeter - 360 square feet of planting area'
   - 
-    text: 8 large (4’ x 8’) raised garden beds
+    text: 6 interior beds of varying sizes
   - 
-    text: Approximately 100 vegetable and herb plants selected by a master gardener
+    text: Single cedar gate with posts 10’ above ground, with a space for vines to grow above head level
   - 
-    text: Includes 3 months of initial maintenance
+    text: '6’ high - 2” X 4” wire mesh fencing - for deer prevention'
   - 
-    text: 'Small Garden:'
+    text: Rodent fencing 2’ below and 2’ above the ground
   - 
-    text: 4 small (3’ x 4’) raised garden beds
+    text: Included in your garden package are 28 cubic yards of local topsoil
   - 
-    text: Approximately 40 vegetable and herb plants selected by a master gardener
+    text: Approximately 15 different types of vegetables, planted at the appropriate times.
   - 
-    text: Includes 3 months of initial maintenance
+    text: Seed and plant starts selection – depending on plants and their needs
   - 
-    text: Vegetable and herb species may include tomato, eggplant, pepper, lettuces, cabbage, bok choy, beet, onion, garlic, carrot, potato, broccoli, collard greens, swiss chard, radish, cucumber, corn, beans, summer squash, winter squash, basil, dill, oregano, thyme, cilantro, blueberry, raspberry, currant
+    text: 3 months initial maintenance (2 times per week)
+  - 
+    text: 'Please note: harvesting not included.'
 categories:
   - land
-cost: Small $7,000 / Large $14,000
-specDownload: '{{ _site_root }}assets/img/upgrades/Land Upgrades-20140724000233.pdf'
-imageSingle: '{{ _site_root }}assets/img/homes/Vegetable-Details-image.jpg'
+cost: $15,500
+specDownload: /assets/img/upgrades/Land Upgrades-20150622102734.pdf
+imageSingle: /assets/img/homes/Vegetable-Details-image.jpg
+imageGallery: ""
 ---
 <p>$14,000</p>

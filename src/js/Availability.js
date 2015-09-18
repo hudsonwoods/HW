@@ -163,7 +163,7 @@ function forSaleMap(feature) {
         weight: 1,
         color: "#676566",
         opacity: .2,
-        fillColor: "#A7A16B",
+        fillColor: "#E6D23E",
         fillOpacity: .55
     };
 }
@@ -175,7 +175,7 @@ function forSaleMapResetHighlight(e) {
         weight: 1,
         color: "#676566",
         opacity: .2,
-        fillColor: "#A7A16B",
+        fillColor: "#E6D23E",
         fillOpacity: .55
     });
 
@@ -191,7 +191,7 @@ function forSaleMapHighlight(e) {
         weight: 1,
         color: "#676566",
         opacity: 1,
-        fillColor: "#A7A16B",
+        fillColor: "#E6D23E",
         fillOpacity: .65
     });
 

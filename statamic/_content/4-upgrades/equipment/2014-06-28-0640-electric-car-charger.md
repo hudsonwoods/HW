@@ -1,5 +1,5 @@
 ---
-previewImage: '{{ _site_root }}assets/img/upgrades/electric-car-thumbnail.jpg'
+previewImage: /assets/img/upgrades/electric-car-thumbnail.jpg
 title: Electric Car Charger
 specs:
   - 
@@ -10,9 +10,10 @@ specs:
     text: Delay timer feature to easily take advantage of off-peak utility rate
 imageGallery:
   - 
-    image: '{{ _site_root }}assets/img/homes/electric-car-thumbnail.jpg'
+    image: /assets/img/homes/electric-car-thumbnail.jpg
 categories:
   - equipment
 cost: $3,500
-specDownload: '{{ _site_root }}assets/img/upgrades/Equipment-20140723235801.pdf'
+specDownload: /assets/img/upgrades/Utilities-20150707164918.pdf
+imageSingle: ""
 ---

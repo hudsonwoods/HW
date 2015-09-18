@@ -6358,10 +6358,10 @@ p {
   background-color: #accf9c; }
 
 .card.availability.for-sale {
-  border-top: 8px solid #D1CAAA; }
+  border-top: 8px solid #F2E68C; }
 
 .card.availability.for-sale .status {
-  background-color: #D1CAAA; }
+  background-color: #F2E68C; }
 
 .card.area {
   overflow: hidden; }
@@ -6828,7 +6828,7 @@ p {
 
 .legend .legend-marker.for-sale span {
   border: 1px solid #bbbbbb;
-  background-color: #D1CAAA; }
+  background-color: #F2E68C; }
 
 .legend .legend-marker.sold span {
   border: 1px solid #bbbbbb;
