@@ -125,10 +125,6 @@ function onEachFeaturesold(feature, layer) {
             "<p>SIZE</p>" +
             "<p>" + feature.properties.lotSize+"</p>" +
         "</div>" + 
-        "<div class='col-md-4" + "'" + ">" +
-            "<p>COST</p>" +
-            "<p>"+feature.properties.cost+"</p>" +
-        "</div>" + 
         "<div class='row" + "'" + ">" + "</div>" +
         "<a href=" + "http://hudsonwoods.com/availability/sold/" + feature.properties.lotURL + ">" + 
         "<i class='fa fa-search" + "'" +">" + "</i>" +
@@ -146,7 +142,6 @@ function onEachFeaturesold(feature, layer) {
     });
 }
 
-geojson = L.geoJson(sold, {
     style: soldMap,
     onEachFeature: onEachFeaturesold,
     pointToLayer: function (feature, latlng) {

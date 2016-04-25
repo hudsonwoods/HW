@@ -14,14 +14,14 @@ node_modules/*
 
 # Statamic files #
 ######################
-statamic/_cache/*
-statamic/!_cache/index.html
-statamic/_logs/*
-statamic/!_logs/index.html
-statamic/assets/*
-statamic/_content/backup/*
-#statamic/_content/*
-#statamic/_config/users/*
+wwwroot/_cache/*
+wwwroot/!_cache/index.html
+wwwroot/_logs/*
+wwwroot/!_logs/index.html
+wwwroot/assets/*
+wwwroot/_content/backup/*
+wwwroot/_content/*
+wwwroot/_config/users/*
 .htaccess
 
 

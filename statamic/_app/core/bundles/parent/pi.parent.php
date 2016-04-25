@@ -14,7 +14,7 @@ class Plugin_Parent extends Plugin
 	 * @return Array Array containing the content of the parent page
 	 */
 	private function getParent() {
-		$parent = URL::popLastSegment(URL::getCurrent());
+		$parent = URL::assemble(URL::popLastSegment(URL::getCurrent()));
 
 		if (Taxonomy::isTaxonomyURL($parent)) {
 			$parent = URL::popLastSegment($parent);

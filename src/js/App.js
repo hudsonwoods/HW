@@ -308,6 +308,10 @@ $(document).ready(function(){
   $(".video").fitVids();
 });
 
+if ($('#lot_individual').length) {
+  $('body').addClass('lighter-gray');
+}
+
 // upgrades scroll position hack
 
 $('.upgrades-scroll').click(function () {

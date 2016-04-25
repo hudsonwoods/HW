@@ -5,7 +5,9 @@ _template: availability
 _layout: availability
 heroImages:
   - 
+    image: /assets/img/upgrades/Availability-20160209120253.jpg
     headline: Availability
     subHeadline: ""
-    image: '{{ _site_root }}assets/img/upgrades/Banner-image-Availability-20140730123349.jpg'
+image: ""
+floorplans: ""
 ---

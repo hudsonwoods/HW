@@ -30,8 +30,8 @@ specs:
     text: Additional charges may apply if ground mounted system is required
   - 
     text: Electricity production may vary with house orientation and weather
-cost: 9.6 kW Solar Array $43,000 / 6 kW Solar Array $29,000
-specDownload: /assets/img/upgrades/Solar Panels-20150330112746.pdf
+cost: 9.6 kW Solar Array $47,000 / 6 kW Solar Array $32,000
+specDownload: /assets/img/upgrades/Untitled Extract Pages.pdf
 imageSingle: /assets/img/homes/Solar-Panel-Thumbnails.jpg
 imageGallery: ""
 ---

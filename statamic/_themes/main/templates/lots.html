@@ -33,7 +33,7 @@
 							<li>Availability: <span>{{ availability }}</span></li>
 							{{ endif }}
 							{{ if size|not_empty }}
-							<li>Size: <span>{{ size }}</span></li>
+							<li>Size: <span>{{ size }} Acres</span></li>
 							{{ endif }}
 							{{ if home|not_empty }}
 							<li>Home: <span>{{ home }}</span></li>
@@ -47,7 +47,7 @@
 							{{ if other|not_empty }}
 							<li>Other: <span>{{ other }}</span></li>
 							{{ endif }}
-							{{ if availability|not_empty }}
+							{{ if availability != "Sold" }}
 							<li>Cost: <span>{{ cost }}</span></li>
 							{{ endif }}
 						</ul>	
@@ -58,3 +58,4 @@
 		</div>	
 	</div>
 </div>
+<div id="lot_individual"></div>

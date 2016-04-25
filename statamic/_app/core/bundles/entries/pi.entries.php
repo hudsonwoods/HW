@@ -187,7 +187,7 @@ class Plugin_entries extends Plugin
         }
 
         // get the content
-        $content = $content_set->get(preg_match(Pattern::USING_CONTENT, $this->content));
+        $content = $content_set->get(preg_match(Pattern::USING_CONTENT, $this->content), false);
 
         // set up iterator variables
         $current_found = false;
@@ -267,7 +267,7 @@ class Plugin_entries extends Plugin
         }
 
         // get the content
-        $content = $content_set->get(preg_match(Pattern::USING_CONTENT, $this->content));
+        $content = $content_set->get(preg_match(Pattern::USING_CONTENT, $this->content), false);
 
         // set up iterator variables
         $previous_data = null;

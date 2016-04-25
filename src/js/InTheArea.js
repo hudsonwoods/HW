@@ -6,7 +6,7 @@ var map = L.map('map', {
 });
 
 
-L.tileLayer('http://a.tiles.mapbox.com/v3/sandersonj.i245n6m6/{z}/{x}/{y}.png', {
+L.tileLayer('https://a.tiles.mapbox.com/v3/sandersonj.i245n6m6/{z}/{x}/{y}.png', {
   maxZoom: 18,
   id: 'examples.map-20v6611k'
 }).addTo(map);

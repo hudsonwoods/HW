@@ -21,8 +21,8 @@ imageGallery:
     image: /assets/img/homes/3-20140727020354.jpg
   - 
     image: /assets/img/homes/5-20140727020354.jpg
-cost: $17,000
-specDownload: /assets/img/upgrades/island.pdf
+cost: $19,000
+specDownload: /assets/img/upgrades/Kitchen Island.pdf
 imageSingle: ""
 ---
 <p>$17,000</p>

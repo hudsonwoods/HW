@@ -6576,10 +6576,6 @@ function onEachFeaturesold(feature, layer) {
             "<p>SIZE</p>" +
             "<p>" + feature.properties.lotSize+"</p>" +
         "</div>" + 
-        "<div class='col-md-4" + "'" + ">" +
-            "<p>COST</p>" +
-            "<p>"+feature.properties.cost+"</p>" +
-        "</div>" + 
         "<div class='row" + "'" + ">" + "</div>" +
         "<a href=" + "http://hudsonwoods.com/availability/sold/" + feature.properties.lotURL + ">" + 
         "<i class='fa fa-search" + "'" +">" + "</i>" +
@@ -6597,7 +6593,6 @@ function onEachFeaturesold(feature, layer) {
     });
 }
 
-geojson = L.geoJson(sold, {
     style: soldMap,
     onEachFeature: onEachFeaturesold,
     pointToLayer: function (feature, latlng) {
@@ -7017,7 +7012,7 @@ var map = L.map('map', {
 });
 
 
-L.tileLayer('http://a.tiles.mapbox.com/v3/sandersonj.i245n6m6/{z}/{x}/{y}.png', {
+L.tileLayer('https://a.tiles.mapbox.com/v3/sandersonj.i245n6m6/{z}/{x}/{y}.png', {
   maxZoom: 18,
   id: 'examples.map-20v6611k'
 }).addTo(map);
@@ -8280,6 +8275,10 @@ $(document).ready(function(){
   // Target your .container, .wrapper, .post, etc.
   $(".video").fitVids();
 });
+
+if ($('#lot_individual').length) {
+  $('body').addClass('lighter-gray');
+}
 
 // upgrades scroll position hack
 

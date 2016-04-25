@@ -4282,8 +4282,8 @@ html, body {
   transform: none !important; }
 
 .fotorama__wrap--css3 .fotorama__nav__shaft, .fotorama__wrap--css3 .fotorama__stage__shaft, .fotorama__wrap--css3 .fotorama__thumb-border {
-  transition-property: -webkit-transform,width;
-  transition-property: transform,width;
+  transition: -webkit-transform,width;
+  transition: transform,width;
   transition-timing-function: cubic-bezier(0.1, 0, 0.25, 1);
   transition-duration: 0ms; }
 
@@ -4586,7 +4586,7 @@ html, body {
   animation: spinner 24s infinite linear; }
 
 .fotorama__wrap--css3 .fotorama__html, .fotorama__wrap--css3 .fotorama__stage .fotorama__img {
-  transition-property: opacity;
+  transition: opacity;
   transition-timing-function: linear;
   transition-duration: .3s; }
 
@@ -4741,8 +4741,8 @@ html, body {
   transform: translate3d(48px, 0, 0) !important; }
 
 .fotorama__wrap--css3 .fotorama__arr:not(:focus), .fotorama__wrap--css3 .fotorama__fullscreen-icon:not(:focus), .fotorama__wrap--css3 .fotorama__video-close:not(:focus), .fotorama__wrap--css3 .fotorama__video-play:not(:focus) {
-  transition-property: -webkit-transform,opacity;
-  transition-property: transform,opacity;
+  transition: -webkit-transform,opacity;
+  transition: transform,opacity;
   transition-duration: .3s; }
 
 .fotorama__nav:after, .fotorama__nav:before, .fotorama__stage:after, .fotorama__stage:before {

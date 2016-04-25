@@ -13,6 +13,7 @@ var watch = require('gulp-watch');
 var htmlreplace = require('gulp-html-replace');
 var livereload = require('gulp-livereload');
 var reload_page = livereload.changed;
+var cleanCSS = require('gulp-clean-css');
 
 gulp.task('default', function() {
   // place code for your default task here
@@ -50,8 +51,8 @@ gulp.task('sass', function () {
 });
 
 gulp.task('minify-css', function() {
-  return gulp.src(path.DEST + 'css/*.css')
-    .pipe(minifyCss())
+  return gulp.src(path.DEST + 'css/main.css')
+    .pipe(cleanCSS({compatibility: 'ie8'}))
     .pipe(rename("main.min.css"))
     .pipe(gulp.dest(path.DEST + 'css'));
 });
