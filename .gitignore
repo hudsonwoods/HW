@@ -9,20 +9,17 @@ ehthumbs.db
 Thumbs.db
 *.sass-cache*
 
-# Node Modules
-node_modules/*
-
-# Statamic files #
+# wwwroot files #
 ######################
-wwwroot/_cache/*
-wwwroot/!_cache/index.html
-wwwroot/_logs/*
+wwwroot/_cache
+wwwroot/_logs
 wwwroot/!_logs/index.html
-wwwroot/assets/*
-wwwroot/_content/backup/*
-wwwroot/_content/*
-wwwroot/_config/users/*
-.htaccess
+wwwroot/assets/
+wwwroot/_content/
+wwwroot/_config/users/
+wwwroot/_forms/
+wwwroot/_themes/main/js/AvailabilityGeojson.js
+wwwroot/_themes/main/js/InTheAreaGeejson.js
 
 
 .bundle
@@ -48,3 +45,8 @@ tmp/**/*
 npm-debug.log
 *.sublime-project
 *.sublime-workspace
+
+node_modules/*
+package.json
+bower_components
+backup/
